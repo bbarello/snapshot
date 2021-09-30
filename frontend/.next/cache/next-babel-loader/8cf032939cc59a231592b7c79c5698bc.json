@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createCtx } from '../context.utils';\nexport const THEME = {\n  light: 'light',\n  dark: 'dark'\n};\nconst [useThemeSwitcherCtx, ThemeSwitcherProvider] = createCtx();\nexport { useThemeSwitcherCtx, ThemeSwitcherProvider };","map":null,"metadata":{},"sourceType":"module"}

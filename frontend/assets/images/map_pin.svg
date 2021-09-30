@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="35px" viewBox="0 0 23 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>map_pin</title>
+    <g id="map_pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-23" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" stroke="#979797" stroke-width="2">
+            <path d="M0,10.6666667 C0,4.78506667 4.7103,0 10.5,0 C16.2897,0 21,4.78506667 21,10.6666667 C21,17.0666667 10.5,32 10.5,32 C10.5,32 0,17.0666667 0,10.6666667 Z" id="Path"></path>
+            <path d="M16,12 C16,15.315 13.53875,18 10.5,18 C7.46125,18 5,15.315 5,12 C5,8.685 7.46125,6 10.5,6 C13.53875,6 16,8.685 16,12" id="Path"></path>
+        </g>
+    </g>
+</svg>

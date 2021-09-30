@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>search-white</title>
+    <g id="search-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,18.586 L18.586,20 L14.343,15.758 L15.757,14.343 L20,18.586 Z M8,14 C4.692,14 2,11.309 2,8 C2,4.692 4.692,2 8,2 C11.308,2 14,4.692 14,8 C14,11.309 11.308,14 8,14 L8,14 Z M8,0 C3.582,0 0,3.582 0,8 C0,12.418 3.582,16 8,16 C12.418,16 16,12.418 16,8 C16,3.582 12.418,0 8,0 L8,0 Z" id="search_left-[#1504]" fill="#FFFFFF"></path>
+    </g>
+</svg>

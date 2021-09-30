@@ -1,0 +1,47 @@
+{
+  "name": "amr-toolbox",
+  "version": "1.0.0",
+  "description": "React Next TypeScript Admin Template",
+  "author": "Bryan Barello",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "api",
+      "frontend"
+    ]
+  },
+  "scripts": {
+    "clean": "lerna clean --yes && rimraf node_modules",
+    "clean:build": "lerna exec -- rimraf \"{.next,dist,out,build,.docz,.cache,public}\"",
+    "prebuild": "yarn clean:build",
+    "dev": "lerna run --parallel dev",
+    "build": "yarn workspaces run build"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,md,css,html}": [
+      "prettier --trailing-comma es5 --single-quote --write"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "husky": "^4.2.5",
+    "lerna": "^3.22.1",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  },
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.pie.apple.com:AMR-3PL-Support/toolbox_v2.git"
+  },
+  "license": "ISC"
+}

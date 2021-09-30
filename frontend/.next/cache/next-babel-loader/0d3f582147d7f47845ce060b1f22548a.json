@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { styled } from 'baseui';\nvar Wrapper = styled('a', {\n  display: 'inline-flex',\n  alignItems: 'center',\n  cursor: 'pointer'\n});\nexport default Wrapper;","map":null,"metadata":{},"sourceType":"module"}

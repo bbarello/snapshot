@@ -1,0 +1,12 @@
+env: {
+    GITHUB_AUTH_TOKEN: &apos;your_github_auth_token&apos;,
+    PRODUCT_HUNT_AUTH_TOKEN: &apos;your_product_hunt_auth_token&apos;,
+    FIREBASE_API_KEY: &apos;your_firebase_api_key&apos;,
+    FIREBASE_AUTH_DOMAIN: &apos;your_firebase_auth_domain&apos;,
+    FIREBASE_DATABASE_URL: &apos;your_firebase_database_url&apos;,
+    FIREBASE_PROJECT_ID: &apos;your_firebase_project_id&apos;,
+    FIREBASE_STORAGE_BUCKET: &apos;your_firebase_storage_bucket&apos;,
+    FIREBASE_MESSAGING_SENDER_ID: &apos;your_firebase_messaging_sender_id&apos;,
+    FIREBASE_APP_ID: &apos;your_firebase_app_id&apos;,
+    FIREBASE_MEASUREMENT_ID: &apos;your_firebase_measurement_id&apos;,
+  },

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="15px" viewBox="0 0 21 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>db schanker</title>
+    <g id="db-schanker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <rect id="Rectangle" stroke="#FF0000" x="0.5" y="1.17647059" width="20" height="12.5882353" rx="2"></rect>
+            <text id="DB" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="13" font-weight="500" letter-spacing="-0.096" fill="#FF0000">
+                <tspan x="2" y="12">DB</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

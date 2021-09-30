@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nconst SvgIcon = ({\n  src,\n  style\n}) => {\n  return __jsx(\"span\", {\n    style: style,\n    className: \"svg-icon\",\n    dangerouslySetInnerHTML: {\n      __html: src\n    }\n  });\n};\n\nexport default SvgIcon;","map":null,"metadata":{},"sourceType":"module"}

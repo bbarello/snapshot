@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>site small</title>
+    <g id="site-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(0.000000, 0.000000)" stroke="#6D7278">
+            <g id="Group-5">
+                <polygon id="Stroke-1" points="1.957 9.471 8.147 9.471 8.147 1.936 1.957 1.936"></polygon>
+                <line x1="5" y1="0" x2="5" y2="2.235" id="Stroke-3"></line>
+                <line x1="0" y1="9.4707" x2="10" y2="9.4707" id="Stroke-4"></line>
+            </g>
+            <line x1="5.0513" y1="3.0532" x2="5.0513" y2="4.1422" id="Stroke-6"></line>
+            <line x1="5.0513" y1="4.8032" x2="5.0513" y2="5.8932" id="Stroke-7"></line>
+            <line x1="5.0513" y1="6.5761" x2="5.0513" y2="8.9771" id="Stroke-8"></line>
+        </g>
+    </g>
+</svg>

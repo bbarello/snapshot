@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>site_shape</title>
+    <g id="site_shape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,19 L9.2473125,19 L8.0598125,19 L2,19 L2,12.17875 L2,2 L13.875,2 L13.875,6.335 L13.875,8.375 L16.3723125,8.375 L21,8.375 L21,19 Z M16.1,6.3 L16.1,0 L13.91845,0 L2.41845,0 L0,0 L0,1.134 L0,12.159 L0,17.934 L0,21 L2.41845,21 L8.16845,21 L9.31845,21 L20.81845,21 L23,21 L23,17.934 L23,7.959 L23,6.3 L16.1,6.3 Z" id="cut_corner-[#888]" fill="#979797"></path>
+    </g>
+</svg>
